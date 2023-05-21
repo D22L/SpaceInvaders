@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d493c047cb977d84990b12a80236e640, type: 3}
+  m_Name: Enemy_BulletData
+  m_EditorClassIdentifier: 
+  <Speed>k__BackingField: 5
+  <Damage>k__BackingField: 100
+  <BulletPrefab>k__BackingField: {fileID: 6196907835804088573, guid: 49c8bd570e35d474eb4574ee0e22261f, type: 3}

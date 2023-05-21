@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 941d8f0d4bb1a6941acf45290e996ffa, type: 3}
+  m_Name: BulletBonusDatabase
+  m_EditorClassIdentifier: 
+  <Pfb>k__BackingField: {fileID: 7923235956426952831, guid: 8737979ef75ffc14eb4d21f149b3b552, type: 3}
+  <DropChance>k__BackingField: 20
+  _bulletBonusDatas:
+  - {fileID: 11400000, guid: d432440573f3abb40b07fcee2459caef, type: 2}
+  - {fileID: 11400000, guid: 574ea335658872446993a3f9bf47340a, type: 2}
